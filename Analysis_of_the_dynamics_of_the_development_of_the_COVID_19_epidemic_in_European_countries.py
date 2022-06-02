@@ -2,6 +2,7 @@
 # coding: utf-8
 
 # # **Bachelor's thesis - Analysis of the dynamics of the development of the COVID-19 epidemic in European countries**
+# University of Warsaw
 # Author: Tomasz Karolewski
 # 
 # Promoter: Ph.D. Krzysztof Gogolewski 
